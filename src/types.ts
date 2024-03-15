@@ -1,4 +1,5 @@
 export type Product = {
+  slug: number;
   id: number;
   image: string | null;
   name: string;
