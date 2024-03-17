@@ -26,7 +26,7 @@ const ProductListItems = ({ product }: ProductListItemProps) => {
   );
 };
 
-export default ProductListItems;
+export default ProductListItems ; defaultImage;
 
 const styles = StyleSheet.create({
   container: {
